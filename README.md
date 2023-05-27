@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter, Dart, Java, C++, Arduino**
+- 💬 Ask me about **Flutter, Dart, Java, JavaScript, Swift, C++, Arduino**
 
 - 📫 How to reach me **www.linkedin.com/in/aniketraj19/**
 
